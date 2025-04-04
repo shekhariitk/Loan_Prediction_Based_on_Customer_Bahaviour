@@ -7,3 +7,6 @@ statsmodels
 scipy
 plotly
 Pyyaml
+xgboost
+lightgbm
+catboost

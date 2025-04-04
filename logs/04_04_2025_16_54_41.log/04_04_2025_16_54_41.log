@@ -1,0 +1,5 @@
+[2025-04-04 16:54:41,571] 29 root - INFO - Configuration loaded successfully.
+[2025-04-04 16:54:41,852] 151 root - INFO - Starting preprocessing...
+[2025-04-04 16:54:42,063] 64 root - INFO - Null values handled.
+[2025-04-04 16:54:42,177] 72 root - INFO - Removed 0 duplicate rows.
+[2025-04-04 16:54:42,181] 181 root - ERROR - Error during preprocessing: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().

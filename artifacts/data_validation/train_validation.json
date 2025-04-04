@@ -1,0 +1,29 @@
+{
+    "null_values": {
+        "Id": 0,
+        "Income": 0,
+        "Age": 0,
+        "Experience": 0,
+        "Married/Single": 0,
+        "House_Ownership": 0,
+        "Car_Ownership": 0,
+        "Profession": 0,
+        "CITY": 0,
+        "STATE": 0,
+        "CURRENT_JOB_YRS": 0,
+        "CURRENT_HOUSE_YRS": 0,
+        "Risk_Flag": 0
+    },
+    "duplicated_rows": 0,
+    "outliers": {
+        "Id": 0,
+        "Income": 0,
+        "Age": 0,
+        "Experience": 0,
+        "CURRENT_JOB_YRS": 0,
+        "CURRENT_HOUSE_YRS": 0,
+        "Risk_Flag": 21725
+    },
+    "data_type_validation": {},
+    "target_column_imbalance": 0.1404557944076289
+}

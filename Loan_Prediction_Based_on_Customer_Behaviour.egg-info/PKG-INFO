@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: Loan_Prediction_Based_on_Customer_Behaviour
+Version: 0.0.1
+Summary: A package to predict loan based on customer behaviour using machine learning.
+Author: Sejal
+Author-email: sejaldubey125@gmail.com
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: statsmodels
+Requires-Dist: scipy
+Requires-Dist: plotly
+Requires-Dist: Pyyaml
+Requires-Dist: xgboost
+Requires-Dist: lightgbm
+Requires-Dist: catboost

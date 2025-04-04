@@ -1,0 +1,15 @@
+[2025-04-04 17:02:53,927] 29 root - INFO - Configuration loaded successfully.
+[2025-04-04 17:02:54,195] 151 root - INFO - Starting preprocessing...
+[2025-04-04 17:02:54,405] 64 root - INFO - Null values handled.
+[2025-04-04 17:02:54,513] 72 root - INFO - Removed 0 duplicate rows.
+[2025-04-04 17:02:54,589] 86 root - INFO - Outliers handled.
+[2025-04-04 17:02:54,633] 94 root - INFO - Data types corrected.
+[2025-04-04 17:02:54,727] 64 root - INFO - Null values handled.
+[2025-04-04 17:02:54,773] 72 root - INFO - Removed 0 duplicate rows.
+[2025-04-04 17:02:54,795] 86 root - INFO - Outliers handled.
+[2025-04-04 17:02:54,813] 94 root - INFO - Data types corrected.
+[2025-04-04 17:02:55,875] 176 root - INFO - Preprocessing completed. Preprocessed data saved to:
+artifacts/data_preprocessing//preprocessed_train.csv
+artifacts/data_preprocessing//preprocessed_test.csv
+[2025-04-04 17:02:55,878] 198 root - INFO - Preprocessed train data saved to: artifacts/data_preprocessing//preprocessed_train.csv
+[2025-04-04 17:02:55,878] 199 root - INFO - Preprocessed test data saved to: artifacts/data_preprocessing//preprocessed_test.csv

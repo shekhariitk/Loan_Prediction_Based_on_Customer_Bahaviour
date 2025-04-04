@@ -1,0 +1,3 @@
+[2025-04-04 16:22:22,180] 28 root - INFO - Configuration loaded successfully.
+[2025-04-04 16:22:22,544] 111 root - ERROR - Error checking imbalance in target column: 'target_column'
+[2025-04-04 16:22:22,544] 143 root - ERROR - Error during data validation: __init__() missing 1 required positional argument: 'error_detail'

@@ -1,0 +1,8 @@
+[2025-04-04 15:59:49,464] 34 root - INFO - Data Ingestion method starts
+[2025-04-04 15:59:49,464] 37 root - INFO - Loading source data from: notebooks/data/Training_Data.csv
+[2025-04-04 15:59:49,787] 40 root - INFO - Dataset loaded with 252000 rows
+[2025-04-04 15:59:50,628] 49 root - INFO - Raw data saved at: artifacts/data_ingestion/raw.csv
+[2025-04-04 15:59:50,629] 52 root - INFO - Performing train-test split...
+[2025-04-04 15:59:51,529] 59 root - INFO - Train data saved at: artifacts/data_ingestion/train.csv
+[2025-04-04 15:59:51,529] 60 root - INFO - Test data saved at: artifacts/data_ingestion/test.csv
+[2025-04-04 15:59:51,529] 62 root - INFO - Data Ingestion process completed successfully.
